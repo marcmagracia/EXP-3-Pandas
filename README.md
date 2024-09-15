@@ -25,6 +25,7 @@ Using the dataframe cars in problem 1, extract the following information using s
 * 'cars.csv' - Dataframe
 * 'Magracia_Pandas-P1.py' - Problem 1 code
 * 'Magracia_Pandas-P2.py' - Problem 2 code
+* 'PA3-Magracia_Pandas.ipynb' - Problem 1 & 2 Jupyter Notebook (Viewable & Editable) File 
 
 ### Program Execution
 * To successfully run both program files, select a specific cell and press Shift + Enter.
@@ -36,5 +37,10 @@ Using the dataframe cars in problem 1, extract the following information using s
 _Magracia, Marc Reggie Sean S. | 2ECE-C_
 
 ## Version History
+* v1.2
+  * Addition and deletion of Jupyter Notebook supplementary files
+  * Updating README file
+* v1.1
+  * Deletion of Python supplementary files 
 * v1.0 (16 September 2024)
   * Initial version
